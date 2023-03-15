@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996205838965",
+    "project_id": "task-addeb",
+    "storage_bucket": "task-addeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996205838965:android:f09ca5c8c80eb188e82e3c",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996205838965-bjhvgkivs2hngfhlf3hrk1obbkk82sko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVhTNi5MqpcxYLrKDw1jy_ndhIptBnsqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996205838965-bjhvgkivs2hngfhlf3hrk1obbkk82sko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
